@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import os
 from cartografo import argument_parser
 from cartografo.cartografo import generate

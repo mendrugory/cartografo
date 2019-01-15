@@ -109,3 +109,4 @@ run.sh
 venv
 venv_creation.sh
 test/tmp*
+.vscode
