@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+new.yaml
+run.sh
+venv
+venv_creation.sh
+test/tmp*
