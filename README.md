@@ -1,6 +1,8 @@
 # Cartografo
 
 
+[![Build Status](https://travis-ci.org/mendrugory/cartografo.svg?branch=master)](https://travis-ci.org/mendrugory/cartografo)
+
 CLI tool to generate Kubernetes ConfigMaps or Secrets with a lot of data entries from files.
 
 One of the coolest feature in Kubernetes is to create volumes which will be used by the containers from ConfigMap or Secret objects. Otherwise, write by hand these kubernetes files is tedious, especially when we have a lot of source files:
